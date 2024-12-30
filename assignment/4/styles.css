@@ -1,0 +1,10 @@
+
+#logo {
+    display: block;
+    transition: opacity 0.5s;
+}
+
+#logo.hidden {
+    opacity: 0;
+}
+
